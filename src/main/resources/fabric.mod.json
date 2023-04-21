@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "mirkokralhasasmallpenis",
+  "version": "${version}",
+
+  "name": "Mirkokral Has A Small Penis",
+  "description": "It's true!",
+  "authors": [
+    "Allink"
+  ],
+  "contact": {
+    "homepage": "https://github.com/allinkdev/mirkokral-has-a-small-penis/",
+    "issues": "https://github.com/allinkdev/mirkokral-has-a-small-penis/issues",
+    "sources": "https://github.com/allinkdev/mirkokral-has-a-small-penis"
+  },
+
+  "license": "UNLICENSE",
+  "environment": "client",
+  "mixins": [
+    "mirkokralhasasmallpenis.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "accessWidener": "mirkokralhasasmallpenis.accessWidener"
+}
